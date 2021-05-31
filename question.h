@@ -1,0 +1,1 @@
+int question_structs_are_different(question *q1, question *q2);

@@ -1,0 +1,3 @@
+#define	MAX_LIST_LENGTH		9
+#define MAX_CHILDREN_AMOUNT	9
+#define QS_PER_GAME 10

@@ -8,7 +8,7 @@ I used some ideas from [these class little game dev tutorials](https://www.paral
 
 Obvious improvements would be dynamic rather than somewhat static data structures, a channel for error handling, and calling a GUI library (which should be pretty easy with this decoupled design).
 
-I really enjoyed this introduction to manual memory management and pointer arithmetic. I also got a glimpse of some of C's stickier spots like string handling. Looking forward to doing some more C game dev someday.
+Looking forward to doing some more C game dev someday.
 
 Thanks for reading!
 
